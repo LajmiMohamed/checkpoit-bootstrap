@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.red{
+
+    background-color: red;
+   
+}
+.green{
+
+   
+background-color: green;
+}    
+.yellow{
+
+background-color: yellow;
+}
+.bleu{
+    background-color: blue;
+}
+.container-fluid{
+    padding: 0;
+}
+.row p{
+    font-size: 30px;
+    text-align: center;
+}
